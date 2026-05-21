@@ -9,6 +9,16 @@ Build an autonomous driving stack using ROS2 and CARLA.
 ✅ Workspace builds successfully  
 ✅ Custom package: my_autonomous_stack
 
+## Project Structure
+
+carla-ros2-bridge_ws/
+├── src/
+│   ├── my_autonomous_stack/
+│   └── ros-bridge/
+├── build/
+├── install/
+└── log/
+
 ## Planned Features
 - [ ] Camera subscriber
 - [ ] LiDAR integration
