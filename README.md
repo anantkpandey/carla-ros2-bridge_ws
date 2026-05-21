@@ -1,7 +1,7 @@
 # ROS2 + CARLA Autonomous Stack
 
 ## Goal
-Build an autonomous driving stack using ROS2 and CARLA.
+Build an autonomous driving stack using ROS2 and CARLA with perception, localization, and navigation modules.
 
 ## Current Progress
 ✅ ROS2 Jazzy setup  
