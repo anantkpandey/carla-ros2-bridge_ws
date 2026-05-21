@@ -11,6 +11,7 @@ Build an autonomous driving stack using ROS2 and CARLA.
 
 ## Project Structure
 
+```text
 carla-ros2-bridge_ws/
 ├── src/
 │   ├── my_autonomous_stack/
@@ -18,6 +19,7 @@ carla-ros2-bridge_ws/
 ├── build/
 ├── install/
 └── log/
+```
 
 ## Planned Features
 - [ ] Camera subscriber
