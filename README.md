@@ -18,10 +18,13 @@ Build an autonomous driving stack using ROS2 and CARLA.
 - [ ] Navigation
 
 ## Tech
-ROS2 Jazzy
-CARLA
-Python
-RViz
+
+- ROS2 Jazzy
+- CARLA
+- Python
+- RViz
+- Colcon
+- Ubuntu
 
 ## Setup
 
