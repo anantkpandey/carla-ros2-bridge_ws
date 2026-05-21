@@ -22,3 +22,13 @@ ROS2 Jazzy
 CARLA
 Python
 RViz
+
+## Setup
+
+```bash
+git clone <repo-url>
+cd carla-ros2-bridge_ws
+source /opt/ros/jazzy/setup.bash
+colcon build --symlink-install
+source install/setup.bash
+
