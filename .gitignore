@@ -1,0 +1,11 @@
+build/
+install/
+log/
+
+.vscode/
+.idea/
+
+*.pyc
+__pycache__/
+
+src/ros-bridge/
