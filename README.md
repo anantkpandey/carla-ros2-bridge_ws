@@ -14,11 +14,10 @@ Build an autonomous driving stack using ROS2 and CARLA.
 ```text
 carla-ros2-bridge_ws/
 ├── src/
-│   ├── my_autonomous_stack/
-│   └── ros-bridge/
-├── build/
-├── install/
-└── log/
+│   ├── my_autonomous_stack/   # Your work
+│   └── ros-bridge/            # CARLA ROS bridge
+├── README.md
+└── .gitignore
 ```
 
 ## Planned Features
